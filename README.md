@@ -51,11 +51,12 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FelipeFreitas-front&show_icons=true&hide_border=true&count_private=true&theme=default" alt="Estatisticas do GitHub de Felipe" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFreitas-front&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Linguagens mais usadas" />
+  <a href="https://github.com/FelipeFreitas-front?tab=repositories"><img src="https://img.shields.io/badge/Repositórios-6-21759B?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" /></a>
+  <a href="https://github.com/FelipeFreitas-front?tab=followers"><img src="https://img.shields.io/github/followers/FelipeFreitas-front?label=Seguidores&style=for-the-badge&logo=github&logoColor=white&color=555" alt="Seguidores" /></a>
+  <a href="https://github.com/FelipeFreitas-front/Wordpress-Multipaginas-"><img src="https://img.shields.io/github/stars/FelipeFreitas-front/Wordpress-Multipaginas-?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=FFA300" alt="Stars" /></a>
 </p>
 
 ---
