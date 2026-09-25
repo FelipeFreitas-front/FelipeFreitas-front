@@ -39,13 +39,37 @@
 
 ---
 
-### 🚀 Projetos em destaque
+### 🌐 Sites no ar
+
+Alguns projetos que desenvolvi e estão publicados:
+
+| Site | Segmento |
+|---|---|
+| 🔗 [Ocean Bay Interiors](https://oceanbayinteriors.com/) | Design de interiores / reformas |
+| 🔗 [Goose Creek Flooring](https://goosecreekflooring.com/) | Pisos (flooring) |
+| 🔗 [Goose Creek Decking](https://goosecreekdecking.com/) | Decks |
+| 🔗 [Avelino Floorings](https://avelinoflooringsllc.com/) | Pisos (flooring) |
+| 🔗 [F3 Auto Body Service](https://f3autobodyservice.com/) | Funilaria e pintura automotiva |
+| 🔗 [Floor by Floor](https://floorbyfloor.com/) | Pisos (flooring) |
+| 🔗 [Globo Travel](https://globotravel.com/) | Turismo e viagens |
+| 🔗 [Top Shine Cleaning](https://topshinecleaningllc.com/) | Limpeza |
+| 🔗 [Andrade Services](https://andradeservices.com/) | Serviços residenciais |
+| 🔗 [Stone Elegance](https://stonelegance.com/) | Bancadas e pedras |
+| 🔗 [Costal VM Home Service](https://costalvmhomeservice.com/) | Serviços residenciais |
+| 🔗 [Raygon Electric](https://raygonelectric.com/) | Serviços elétricos |
+| 🔗 [3LS Masonry & Landscaping](https://3lsmasonrylandscaping.com/) | Alvenaria e paisagismo |
+| 🔗 [Brilliant Clean USA](https://brilliantcleanusa.com/) | Limpeza |
+| 🔗 [Soelly Maid](https://soellymaid.com/) | Limpeza / diarista |
+| 🔗 [Rios Meat Distribution](https://riosmeatdistribution.com/) | Distribuição de carnes |
+
+---
+
+### 📦 Repositórios
 
 | Projeto | O que é | Tecnologia |
 |---|---|---|
 | [**Wordpress-Multipaginas-**](https://github.com/FelipeFreitas-front/Wordpress-Multipaginas-) | Plugin WordPress que cria páginas de SEO local em massa (template + CSV), com Dashboard e análise por IA | `PHP` |
 | [**PORTFOLIO-PESSOAL**](https://github.com/FelipeFreitas-front/PORTFOLIO-PESSOAL) | Meu portfólio pessoal | `HTML` · `CSS` |
-| [**df-fit-theme**](https://github.com/FelipeFreitas-front/df-fit-theme) | Tema Shopify 100% customizado | `Liquid` |
 | [**Goldline-LP-FOR-GOOGLE-ADS**](https://github.com/FelipeFreitas-front/Goldline-LP-FOR-GOOGLE-ADS---WORDPRESS) | Landing page de alta conversão para Google Ads | `HTML` |
 | [**DAIA-FREITAS-LP**](https://github.com/FelipeFreitas-front/DAIA-FREITAS-LP) | Landing page | `JavaScript` |
 
